@@ -59,7 +59,7 @@ overflow: auto; }
 {
 	.main #Chicken{width: 40%}
 	.main #Beef{width: 40%}
-	.main #Sushi{width: 83%;clear: left;}
+	.main #Sushi{width: 85%;clear: left;}
 
 }
 @media(max-width: 768px)
